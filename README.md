@@ -34,7 +34,7 @@ In this case, it says that Blog class should receive 2 arguments (title & detail
 ```
 class Blog{
 constuctor(title,detail){}
-
+ 
 }
 ```
 ### Progression 1: WRITE UP
